@@ -1431,7 +1431,7 @@ body {
 }
 .cid-qSZgtWlUhc {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-qSZgtWlUhc .card-box {
@@ -1469,6 +1469,9 @@ body {
 .cid-qSZgtWlUhc .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-qSZgtWlUhc .mbr-text P {
+  text-align: left;
 }
 .cid-qSZheps9xK .navbar {
   background: #ffffff;
