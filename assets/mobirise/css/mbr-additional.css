@@ -1473,6 +1473,18 @@ body {
 .cid-qSZgtWlUhc .mbr-text P {
   text-align: left;
 }
+.cid-qTs85oeU98 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-qTs85oeU98 .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-qTs85oeU98 .social-list a:focus {
+  text-decoration: none;
+}
 .cid-qSZheps9xK .navbar {
   background: #ffffff;
   transition: none;
